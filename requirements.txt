@@ -1,0 +1,6 @@
+google-genai
+pandas
+numpy
+python-dotenv
+os
+json
