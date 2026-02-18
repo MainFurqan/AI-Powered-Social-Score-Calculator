@@ -1,0 +1,11 @@
+ Defined the problem statement and target metric for influencer evaluation by
+designing a research-backed social score algorithm tailored for brand decisionmaking.
+ Identified and integrated four core scoring components with custom weightage:
+ Q2 Engagement (50%)
+ Audience Quality / Purchase Intent (25%)
+ Q2 Views (17%)
+ Follower Count (8%)
+ Performed data exploration and cleaning on scraped Instagram profile data, normalizing
+semi-structured metrics (K, M) into numerical format.
+ Engineered a new engagement feature by aggregating likes and comments and applied
+Q2-based normalization.
